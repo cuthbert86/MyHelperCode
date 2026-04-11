@@ -1,0 +1,10 @@
+{
+    "fastapi-runner.venvPath": "/home/cuthbert/Desktop/Git Hub Package MyHelperCode/venv",
+    "python-envs.pythonProjects": [
+        {
+            "path": "MyHelperCode/venv",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}

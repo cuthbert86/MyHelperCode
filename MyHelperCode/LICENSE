@@ -1,0 +1,16 @@
+
+#### **3. `LICENSE`** (Legal protection)
+Choose one from https://choosealicense.com/ (MIT is popular and simple):
+- Create a file called `LICENSE` 
+- Copy the MIT license text into it
+- Replace `[year]` and `[fullname]` with your info
+
+#### **4. `myhelpercode/__init__.py`** (Package entry point)
+```python
+# This file makes the directory a Python package
+# Import your main functions here so users can do:
+# from myhelpercode import function_name
+
+from .helpers import *
+
+__version__ = "0.1.0"
