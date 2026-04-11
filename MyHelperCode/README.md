@@ -5,6 +5,14 @@ A collection of incredibly useful functions and methods for MicroPython programs
 ## Installation
 
 ```bash
-pip install myhelpercodefrom myhelpercode import some_function
+
+pip install helpercode
+
+from helpercode import some_function
 
 result = some_function()
+
+
+Feature 1
+Feature 2
+Feature 3
