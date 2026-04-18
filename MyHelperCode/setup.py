@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name="myhelpercode",                    # PyPI package name (lowercase)
     version="0.1.0",                        # Semantic versioning (major.minor.patch)
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Cuthbert Baines",
+    author_email="cuthbertbaines@gmail.com",
     description="Useful helper functions for MicroPython on Pico",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
